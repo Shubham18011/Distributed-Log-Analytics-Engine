@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+redis==5.0.1
+psycopg2-binary==2.9.9
+typing-extensions==4.8.0
